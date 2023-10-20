@@ -1,0 +1,5 @@
+1 - Foi criado o banco de dados azure_company;
+
+2 - Realizado a carga do banco;
+
+3 - Conexão com POWER BI deu erro e não carregou os dados corretamente;
